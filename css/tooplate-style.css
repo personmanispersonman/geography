@@ -365,6 +365,43 @@ p {
 	font-size: 18px;
 }
 
+.seventh-section {
+	background-image: url(../img/third-section-bag.png);
+	background-size: cover;
+	width: 100%;
+	background-repeat: no-repeat;
+	padding: 20% 0px;
+}
+
+.seventh-section .left-image img {
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+
+.seventh-section .right-text {
+	display: inline;
+}
+
+.seventh-section em {
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+}
+
+.seventh-section h4 {
+	margin-top: 60px;
+	color: #fff;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.seventh-section p {
+	color: #fff;
+	margin-top: 15px;
+}
 /* ======================
 ----- FOOTER SECTION ----
 =======================*/
